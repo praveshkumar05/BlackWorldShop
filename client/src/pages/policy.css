@@ -1,0 +1,27 @@
+.privacy-policy {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: justify;
+  }
+  
+  .privacy-policy h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  .privacy-policy h2 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  .privacy-policy p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .privacy-policy p:last-child {
+    margin-bottom: 0;
+  }
+  
